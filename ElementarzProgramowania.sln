@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Switch", "8_Switch\8_Swit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Petle", "9_Petle\9_Petle.csproj", "{8ECAEB2E-BFD3-444D-B4BA-16EE6FA9D62D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_InstrukcjeSkoku", "10_InstrukcjeSkoku\10_InstrukcjeSkoku.csproj", "{449A73EA-27EF-4517-A1DB-99C8C9660AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8ECAEB2E-BFD3-444D-B4BA-16EE6FA9D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ECAEB2E-BFD3-444D-B4BA-16EE6FA9D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ECAEB2E-BFD3-444D-B4BA-16EE6FA9D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449A73EA-27EF-4517-A1DB-99C8C9660AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449A73EA-27EF-4517-A1DB-99C8C9660AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449A73EA-27EF-4517-A1DB-99C8C9660AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449A73EA-27EF-4517-A1DB-99C8C9660AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
