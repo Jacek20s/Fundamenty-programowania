@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasyAbstrakcyjne", "KlasyA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfejsy", "Interfejsy\Interfejsy.csproj", "{8FCBFF63-9417-4234-84A3-40A74AD325E4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wyjątki", "Wyjątki", "{F353B5D7-7A6A-493C-8D2B-7AD017E31E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throw", "Throw\Throw.csproj", "{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -211,6 +215,10 @@ Global
 		{8FCBFF63-9417-4234-84A3-40A74AD325E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FCBFF63-9417-4234-84A3-40A74AD325E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FCBFF63-9417-4234-84A3-40A74AD325E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -248,6 +256,7 @@ Global
 		{102263F0-CEB1-4975-B2DD-98033B456532} = {A36440C1-7E73-49D8-87F8-205469676B7E}
 		{349F3B12-7C66-47D2-ABD1-85928C7C4911} = {A36440C1-7E73-49D8-87F8-205469676B7E}
 		{8FCBFF63-9417-4234-84A3-40A74AD325E4} = {A36440C1-7E73-49D8-87F8-205469676B7E}
+		{CB33AAC1-1B9F-43B2-ADE5-51DEC8E3B6F9} = {F353B5D7-7A6A-493C-8D2B-7AD017E31E2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E1E0AF98-5B14-4A2F-9F96-807F03C92E3C}
